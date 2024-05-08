@@ -59,3 +59,17 @@ The dataset used in this project can be downloaded from the following link:
 ## Visuals
 
 ![Distribution of Some Feature](image.png)
+![Correlation Matrix](image-1.png)
+![Receiver Operating Characteristic](image-2.png)
+![Confusion matrix](image-3.png)
+![Precision-Recall curve](image-4.png)
+
+## Contributors
+
+Yanina Andriienko
+
+## Timeline
+
+This project was completed in 5 days.
+
+## Personal Situation
